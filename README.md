@@ -1,3 +1,3 @@
 # libretine
+#todo: store token properly, add role upon react to #rules
 
-#todo: store token properly
