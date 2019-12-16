@@ -1,0 +1,15 @@
+homebrew
+terminal
+bashrc / bashprofile
+text mate
+
+role = blah 
+	assignment: give the name role to the value blah
+name==$pepe
+	comparison: is name equal to $pepe?	
+when you're calling a function (making it run), you pass arguments
+	arguments are either positional (***get example***) or kwarg (keyword arguments)
+	if you pass a kwarg, you have to give the name of the kwarg
+		example: channel = discord.utils.get(self.get_all_channels(), guild__name='Libretine', name='commands')
+		
+		guild__name and name are both kwargs
