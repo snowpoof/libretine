@@ -1,2 +1,2 @@
 discord.py==1.2.5
-ipython==7.10.2
+ipython==7.16.3
